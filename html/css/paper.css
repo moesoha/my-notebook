@@ -91,7 +91,7 @@ nav ul {
 	padding: 0 1em;
 }
 
-nav ul > li {
+nav ul li {
 	color: #000;
 	position: relative;
 	display: block;
@@ -104,22 +104,22 @@ nav ul > li {
 	text-align: center;
 	bottom: 5px;
 	left: 0;
-	transition: 1s ease all;
+	transition: .8s ease all;
 	user-select: none;
 	cursor: pointer;
 }
-nav ul > li:hover {
+nav ul li:hover {
 	color: #444;
 	box-shadow: 5px 4px 4px rgba(0, 0, 0, .2);
 	opacity: 1;
 	bottom: 8px;
 	left: -2px;
 }
-nav ul > li.cyan, div.cyan { background-color: #d0f4f4; }
-nav ul > li.purple, div.purple { background-color: #eed5ff; }
-nav ul > li.pink, div.pink { background-color: #ffc0d7; }
-nav ul > li.yellow, div.yellow { background-color: #fff9c1; }
-nav ul > li.green, div.green { background-color: #cfebd2; }
+nav ul li.cyan, div.cyan { background-color: #d0f4f4; }
+nav ul li.purple, div.purple { background-color: #eed5ff; }
+nav ul li.pink, div.pink { background-color: #ffc0d7; }
+nav ul li.yellow, div.yellow { background-color: #fff9c1; }
+nav ul li.green, div.green { background-color: #cfebd2; }
 
 .paper {
 	margin: 18px 0;

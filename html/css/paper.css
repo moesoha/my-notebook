@@ -190,6 +190,9 @@ nav ul li.green, div.green { background-color: #cfebd2; }
 	border: 1px dashed #ccc;
 	background-color: transparent;
 }
+.paper input[type="submit"] {
+	width: auto;
+}
 .paper input[type="submit"], .paper button {
 	font-size: 14px;
 	border: 2px solid #888;

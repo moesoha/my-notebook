@@ -190,7 +190,7 @@ nav ul li.green, div.green { background-color: #cfebd2; }
 	border: 1px dashed #ccc;
 	background-color: transparent;
 }
-.paper form > button {
+.paper button {
 	font-size: 14px;
 	border: 2px solid #888;
 	background-color: transparent;

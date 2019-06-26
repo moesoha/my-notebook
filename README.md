@@ -2,7 +2,7 @@
 
 **A simple but cute blog theme design.**
 
-I loves grid notebooks, so I designed this blog theme which is inspired by that.
+I love grid notebooks, so I designed this blog theme which is inspired by that.
 
 ## Version
 

@@ -19,4 +19,6 @@ The design and `.ai` files are licensed under the [CC BY-NC-SA 4.0](http://creat
   - `<blockquote>`
   - highlighter for `<b>`
   - author tag (#1)
+  - paginator
+  - Next or prev post
   - some adjustments

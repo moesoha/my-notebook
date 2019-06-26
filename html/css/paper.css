@@ -245,6 +245,10 @@ article > .meta {
 	font-size: 11px;
 }
 
+article > .content {
+	padding: .7em 0;
+}
+
 .input-group {
 	display: flex;
 }

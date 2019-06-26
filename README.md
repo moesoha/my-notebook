@@ -27,3 +27,5 @@ The design and `.ai` files are licensed under the [CC BY-NC-SA 4.0](http://creat
 
   - [SOHABlog](https://github.com/sohablog/theme-my-notebook)
   - Hydro
+
+Feel free to open issue to join the list!

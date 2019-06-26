@@ -2,7 +2,7 @@
 
 **A simple but cute blog theme design.**
 
-I loves grid notebooks, so I designed this blog theme which is inspired by that.
+I love grid notebooks, so I designed this blog theme which is inspired by that.
 
 ## Version
 
@@ -18,7 +18,14 @@ The design and `.ai` files are licensed under the [CC BY-NC-SA 4.0](http://creat
 
   - `<blockquote>`
   - highlighter for `<b>`
-  - author tag (#1)
+  - author tag ( #1 )
   - paginator
   - Next or prev post
   - some adjustments
+
+## Implemented on
+
+  - [SOHABlog](https://github.com/sohablog/theme-my-notebook)
+  - Hydro
+
+Feel free to open issue to join the list!

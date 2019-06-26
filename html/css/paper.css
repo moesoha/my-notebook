@@ -120,6 +120,12 @@ nav ul li.purple, div.purple { background-color: #eed5ff; }
 nav ul li.pink, div.pink { background-color: #ffc0d7; }
 nav ul li.yellow, div.yellow { background-color: #fff9c1; }
 nav ul li.green, div.green { background-color: #cfebd2; }
+.container > nav ul li {
+	bottom: 32px;
+}
+.container > nav ul li:hover {
+	bottom: 35px;
+}
 
 .paper {
 	margin: 18px 0;
